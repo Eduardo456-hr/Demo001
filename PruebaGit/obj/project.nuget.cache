@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eqKkM9kculI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\59167\\CATO\\6to Semestre\\Tecnologias Web I\\PruebaGit\\PruebaGit\\PruebaGit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\59167\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\59167\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
